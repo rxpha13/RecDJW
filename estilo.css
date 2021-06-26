@@ -1,0 +1,34 @@
+#container {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+        }
+ body{
+			background-image:url("img11.jpg");
+			}
+			canvas {
+				position: absolute;
+				top: 0px;
+				bottom: 0px;
+				left: 0px;
+				right: 0px;
+				margin: auto;
+			}
+			
+#starfield {
+    width:100%;
+    height:100%;
+    z-index: -1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+} 
+			
+	#field{
+	float: relative;
+	margin-top:30;
+	margin-right:380px;
+	border: none;
+}
